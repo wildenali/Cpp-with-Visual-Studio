@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\sari\documents\wildengithub\cpp-with-visual-studio\10_arrays_latihan_kapal-kapalan\10_arrays_latihan_kapal-kapalan\main.cpp(70): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  10_Arrays_Latihan_Kapal-kapalan.vcxproj -> C:\Users\sari\Documents\WildenGithub\Cpp-with-Visual-Studio\10_Arrays_Latihan_Kapal-kapalan\Debug\10_Arrays_Latihan_Kapal-kapalan.exe
+  10_Arrays_Latihan_Kapal-kapalan.vcxproj -> C:\Users\sari\Documents\WildenGithub\Cpp-with-Visual-Studio\10_Arrays_Latihan_Kapal-kapalan\Debug\10_Arrays_Latihan_Kapal-kapalan.pdb (Partial PDB)
