@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\sari\documents\wildengithub\cpp-with-visual-studio\07_tipedata\07_tipedata\main.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  07_TipeData.vcxproj -> C:\Users\sari\Documents\WildenGithub\Cpp-with-Visual-Studio\07_TipeData\Debug\07_TipeData.exe
+  07_TipeData.vcxproj -> C:\Users\sari\Documents\WildenGithub\Cpp-with-Visual-Studio\07_TipeData\Debug\07_TipeData.pdb (Partial PDB)
