@@ -3,17 +3,26 @@
 using namespace std;
 
 int main() {
-	double a, b;
-	a = 0;
-	b = 0;
+	
+	int a = 0;
 
-	cin >> a;
 
-	while (a != -1)
+	// while do
+	while (a < 5)
 	{
-		b += a;
-		cin >> a;
+		cout << "di dalem while, loop ke " << a++ << endl;
 	}
+
+
+	// do while 
+	int b = 1;
+	do
+	{
+		cout << "ini do while" << endl;
+	} while (b < 0);
+	cout << "selesai" << endl;
+
+
 
 	system("pause");
 
