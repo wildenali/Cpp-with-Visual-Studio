@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\34_latihan_array\34_latihan_array\main.cpp(12): warning C4018: '<=': signed/unsigned mismatch
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\34_latihan_array\34_latihan_array\main.cpp(29): warning C4018: '<=': signed/unsigned mismatch
+  34_Latihan_Array.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\34_Latihan_Array\Debug\34_Latihan_Array.exe
+  34_Latihan_Array.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\34_Latihan_Array\Debug\34_Latihan_Array.pdb (Partial PDB)
