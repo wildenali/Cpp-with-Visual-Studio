@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\40_string\40_string\main.cpp(133): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\40_string\40_string\main.cpp(205): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  40_String.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\40_String\x64\Debug\40_String.exe
+  40_String.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\40_String\x64\Debug\40_String.pdb (Partial PDB)
