@@ -1,0 +1,9 @@
+ini adalah file eksternal
+dan ini adalah baris ke dua.
+
+data
+No	Nama
+1 	wilden
+2 	ali
+3 	ucup
+4 	mario
