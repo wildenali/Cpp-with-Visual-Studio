@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\51_crud_part_2--create_and_read\51_crud_part_2--create_and_read\main.cpp(26): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\51_crud_part_2--create_and_read\51_crud_part_2--create_and_read\main.cpp(28): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  51_CRUD_Part_2--Create_and_Read.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\51_CRUD_Part_2--Create_and_Read\x64\Debug\51_CRUD_Part_2--Create_and_Read.exe
+  51_CRUD_Part_2--Create_and_Read.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\51_CRUD_Part_2--Create_and_Read\x64\Debug\51_CRUD_Part_2--Create_and_Read.pdb (Partial PDB)
