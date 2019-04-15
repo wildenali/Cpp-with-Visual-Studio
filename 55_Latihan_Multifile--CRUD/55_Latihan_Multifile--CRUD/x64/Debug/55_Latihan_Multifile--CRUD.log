@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\55_latihan_multifile--crud\55_latihan_multifile--crud\main.cpp(240): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\55_latihan_multifile--crud\55_latihan_multifile--crud\main.cpp(242): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  55_Latihan_Multifile--CRUD.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\55_Latihan_Multifile--CRUD\x64\Debug\55_Latihan_Multifile--CRUD.exe
+  55_Latihan_Multifile--CRUD.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\55_Latihan_Multifile--CRUD\x64\Debug\55_Latihan_Multifile--CRUD.pdb (Partial PDB)

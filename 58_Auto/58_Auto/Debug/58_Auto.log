@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\58_auto\58_auto\main.cpp(8): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\58_auto\58_auto\main.cpp(43): note: see reference to function template instantiation 'T max<float,double>(T,U)' being compiled
+          with
+          [
+              T=float,
+              U=double
+          ]
+  58_Auto.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\58_Auto\Debug\58_Auto.exe
+  58_Auto.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\58_Auto\Debug\58_Auto.pdb (Partial PDB)

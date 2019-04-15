@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\57_template_fungsi\57_template_fungsi\main.cpp(52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\57_template_fungsi\57_template_fungsi\main.cpp(33): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  c:\users\pw admin\documents\wilden github\cpp-with-visual-studio\57_template_fungsi\57_template_fungsi\main.cpp(50): note: see reference to function template instantiation 'T max<int,double>(T,U)' being compiled
+          with
+          [
+              T=int,
+              U=double
+          ]
+  57_Template_Fungsi.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\57_Template_Fungsi\Debug\57_Template_Fungsi.exe
+  57_Template_Fungsi.vcxproj -> C:\Users\pw admin\Documents\wilden github\Cpp-with-Visual-Studio\57_Template_Fungsi\Debug\57_Template_Fungsi.pdb (Partial PDB)
